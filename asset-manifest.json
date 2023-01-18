@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.24ecc537.css",
-    "main.js": "/portfolio/static/js/main.4d9f9161.js",
+    "main.css": "/portfolio/static/css/main.e4f81a8d.css",
+    "main.js": "/portfolio/static/js/main.3f7e90ac.js",
     "static/media/bg.jpg": "/portfolio/static/media/bg.cc8af952badc0826009e.jpg",
     "static/media/me.jpg": "/portfolio/static/media/me.e186a04b808083342ef2.jpg",
     "static/media/memory-game.png": "/portfolio/static/media/memory-game.e07dcc3fac9cbdebae73.png",
+    "static/media/analog-digital-clock.png": "/portfolio/static/media/analog-digital-clock.906cc34950c14daa4cf5.png",
     "static/media/calculator.png": "/portfolio/static/media/calculator.ce5fad20f648acfa72f9.png",
     "static/media/word-count-app.png": "/portfolio/static/media/word-count-app.0501ff7b42769b95fc80.png",
     "static/media/online-converter.png": "/portfolio/static/media/online-converter.cc0d7e17383081c3f2d0.png",
     "static/media/todo-list.png": "/portfolio/static/media/todo-list.80113d4e686cabbb1dac.png",
     "index.html": "/portfolio/index.html",
-    "main.24ecc537.css.map": "/portfolio/static/css/main.24ecc537.css.map",
-    "main.4d9f9161.js.map": "/portfolio/static/js/main.4d9f9161.js.map"
+    "main.e4f81a8d.css.map": "/portfolio/static/css/main.e4f81a8d.css.map",
+    "main.3f7e90ac.js.map": "/portfolio/static/js/main.3f7e90ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.24ecc537.css",
-    "static/js/main.4d9f9161.js"
+    "static/css/main.e4f81a8d.css",
+    "static/js/main.3f7e90ac.js"
   ]
 }
