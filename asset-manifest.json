@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e4f81a8d.css",
-    "main.js": "/portfolio/static/js/main.3f7e90ac.js",
+    "main.css": "/portfolio/static/css/main.b3f22622.css",
+    "main.js": "/portfolio/static/js/main.a92cb8d0.js",
     "static/media/bg.jpg": "/portfolio/static/media/bg.cc8af952badc0826009e.jpg",
     "static/media/me.jpg": "/portfolio/static/media/me.e186a04b808083342ef2.jpg",
-    "static/media/memory-game.png": "/portfolio/static/media/memory-game.e07dcc3fac9cbdebae73.png",
-    "static/media/analog-digital-clock.png": "/portfolio/static/media/analog-digital-clock.906cc34950c14daa4cf5.png",
-    "static/media/calculator.png": "/portfolio/static/media/calculator.ce5fad20f648acfa72f9.png",
-    "static/media/word-count-app.png": "/portfolio/static/media/word-count-app.0501ff7b42769b95fc80.png",
-    "static/media/online-converter.png": "/portfolio/static/media/online-converter.cc0d7e17383081c3f2d0.png",
+    "static/media/slides-show.jpg": "/portfolio/static/media/slides-show.89bc61f9160c1897bcce.jpg",
+    "static/media/memory-game.jpg": "/portfolio/static/media/memory-game.a0a09b5cbb2db214aecd.jpg",
+    "static/media/calculator.jpg": "/portfolio/static/media/calculator.1d7440cd2c350b70257e.jpg",
     "static/media/todo-list.png": "/portfolio/static/media/todo-list.80113d4e686cabbb1dac.png",
+    "static/media/analog-digital-clock.jpg": "/portfolio/static/media/analog-digital-clock.a0214deaa98a7228e643.jpg",
+    "static/media/word-count-app.jpg": "/portfolio/static/media/word-count-app.088d46f10fdd07eb5dec.jpg",
+    "static/media/online-converter.jpg": "/portfolio/static/media/online-converter.59d2a7618f6768ba4828.jpg",
     "index.html": "/portfolio/index.html",
-    "main.e4f81a8d.css.map": "/portfolio/static/css/main.e4f81a8d.css.map",
-    "main.3f7e90ac.js.map": "/portfolio/static/js/main.3f7e90ac.js.map"
+    "main.b3f22622.css.map": "/portfolio/static/css/main.b3f22622.css.map",
+    "main.a92cb8d0.js.map": "/portfolio/static/js/main.a92cb8d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f81a8d.css",
-    "static/js/main.3f7e90ac.js"
+    "static/css/main.b3f22622.css",
+    "static/js/main.a92cb8d0.js"
   ]
 }
