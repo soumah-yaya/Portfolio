@@ -1,0 +1,124 @@
+@media all and (min-height: 800px) {
+    body {
+        background: url(../images/bg1.svg) no-repeat left top, url(../images/bg2.svg) no-repeat right top;
+        background-color: transparent;
+        background-attachment: fixed;
+        -moz-background-size: auto 100%, auto 75%;
+        -o-background-size: auto 100%, auto 75%;
+        -webkit-background-size: auto 100%, auto 75%;
+        background-size: auto 100%, auto 75%;
+    }
+
+
+}
+
+@media all and (min-height: 1366px) {
+    body {
+        -moz-background-size: auto 100%, auto 50%;
+        -o-background-size: auto 100%, auto 50%;
+        -webkit-background-size: auto 100%, auto 50%;
+        background-size: auto 100%, auto 50%;
+    }
+}
+
+.footer-item:hover {
+    opacity: 0.6;
+}
+
+.homepage {
+    margin: 0 auto;
+    padding: 0;
+    width: 760px;
+    background: transparent;
+}
+
+.homepage::before,
+.homepage::after {
+    display: none;
+}
+
+header::before,
+header::after,
+.contact-info::before,
+.contact-info::after,
+.portfolio::before,
+.portfolio::after,
+.design-selection::before,
+.design-selection::after,
+.skills::before,
+.skills::after,
+.explanation::before,
+.explanation::after,
+
+footer::before,
+footer::after {
+    position: absolute;
+    left: 0;
+    z-index: -1;
+    width: 360px;
+    content: '';
+}
+
+header::before,
+.contact-info::before,
+.portfolio::before,
+.design-selection::before,
+.skills::before,
+.explanation::before,
+
+footer::before {
+    top: -600px;
+    height: 600px;
+    background: url(../images/hook3.svg) no-repeat center bottom, url(../images/layer-frame.svg) no-repeat center 567px;
+    -moz-background-size: 300px auto, 360px auto;
+    -o-background-size: 300px auto, 360px auto;
+    -webkit-background-size: 300px auto, 360px auto;
+    background-size: 300px auto, 360px auto;
+}
+
+header::after,
+.contact-info::after,
+.portfolio::after,
+.design-selection::after,
+.skills::after,
+.explanation::after,
+
+footer::after {
+    bottom: -33px;
+    height: 33px;
+    background: transparent url(../images/layer-frame.svg) no-repeat center bottom;
+    -moz-background-size: 360px auto;
+    -o-background-size: 360px auto;
+    -webkit-background-size: 360px auto;
+    background-size: 360px auto;
+}
+
+.sidebar {
+    float: left;
+    clear: left;
+}
+
+header,
+.contact-info,
+.portfolio,
+.design-selection,
+.skills,
+.explanation,
+
+footer {
+    position: relative;
+    float: left;
+    margin: 45px 10px;
+    padding: 0 50px 15px 50px;
+    width: 260px;
+    background: url(../images/layer-middle.svg) repeat-y center top;
+    -moz-background-size: 360px auto;
+    -o-background-size: 360px auto;
+    -webkit-background-size: 360px auto;
+    background-size: 360px auto;
+}
+
+header,
+.contact-info {
+    margin-top: 80px;
+}

@@ -1,0 +1,678 @@
+@-webkit-keyframes marquee {
+    0% {
+        text-indent: 100%;
+    }
+
+    80% {
+        text-indent: 0;
+    }
+
+    100% {
+        text-indent: -200%;
+    }
+}
+
+@-moz-keyframes marquee {
+    0% {
+        text-indent: 100%;
+    }
+
+    80% {
+        text-indent: 0;
+    }
+
+    100% {
+        text-indent: -200%;
+    }
+}
+
+@keyframes marquee {
+    0% {
+        text-indent: 100%;
+    }
+
+    80% {
+        text-indent: 0;
+    }
+
+    100% {
+        text-indent: -200%;
+    }
+}
+
+@-webkit-keyframes slider-explanation {
+    from {
+            opacity: 1;
+            visibility: visible;
+            top: -500px;
+        }
+    
+        1% {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+    
+        2% {
+            opacity: 1;
+            visibility: visible;
+            top: 40%;
+        }
+    
+        3% {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+    
+        4% {
+            opacity: 1;
+            visibility: visible;
+            top: 45%;
+        }
+    
+        5% {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+    
+        to {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+}
+
+@-moz-keyframes slider-explanation {
+    from {
+            opacity: 1;
+            visibility: visible;
+            top: -500px;
+        }
+    
+        1% {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+    
+        2% {
+            opacity: 1;
+            visibility: visible;
+            top: 40%;
+        }
+    
+        3% {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+    
+        4% {
+            opacity: 1;
+            visibility: visible;
+            top: 45%;
+        }
+    
+        5% {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+    
+        to {
+            opacity: 1;
+            visibility: visible;
+            top: 50%;
+        }
+}
+
+@keyframes slider-explanation {
+    from {
+        opacity: 1;
+        visibility: visible;
+        top: -500px;
+    }
+
+    1% {
+        opacity: 1;
+        visibility: visible;
+        top: 50%;
+    }
+
+    2% {
+        opacity: 1;
+        visibility: visible;
+        top: 40%;
+    }
+
+    3% {
+        opacity: 1;
+        visibility: visible;
+        top: 50%;
+    }
+
+    4% {
+        opacity: 1;
+        visibility: visible;
+        top: 45%;
+    }
+
+    5% {
+        opacity: 1;
+        visibility: visible;
+        top: 50%;
+    }       
+
+    to {
+        opacity: 1;
+        visibility: visible;
+        top: 50%;
+    }
+}
+
+@-webkit-keyframes slider-explanation-p2 {
+    from {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        1% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        9% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        10% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        29% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        30% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        39% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        40% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        59% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        60% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        69% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        70% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        89% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        90% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        99% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        to {
+            opacity: 0;
+            visibility: hidden;
+        }
+}
+
+@-moz-keyframes slider-explanation-p2 {
+    from {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        1% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        9% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        10% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        29% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        30% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        39% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        40% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        59% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        60% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        69% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        70% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        89% {
+            opacity: 0;
+            visibility: visible;
+        }
+    
+        90% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        99% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        to {
+            opacity: 0;
+            visibility: hidden;
+        }
+}
+
+@keyframes slider-explanation-p2 {
+    from {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    1% {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    9% {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    10% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    29% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    30% {
+        opacity: 1;
+        visibility: visible;
+    }
+    39% {
+        opacity: 1;
+        visibility: visible;
+    }
+    40% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    59% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    60% {
+        opacity: 1;
+        visibility: visible;
+    }
+    69% {
+        opacity: 1;
+        visibility: visible;
+    }
+    70% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    89% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    90% {
+        opacity: 1;
+        visibility: visible;
+    }
+    99% {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+@-webkit-keyframes slider-explanation-p3 {
+    from {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        9% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        10% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        19% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        20% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        39% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        40% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        49% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        50% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        69% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        70% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        79% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        80% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        to {
+            opacity: 0;
+            visibility: hidden;
+        }
+}
+
+@-moz-keyframes slider-explanation-p3 {
+    from {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        9% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        10% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        19% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        20% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        39% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        40% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        49% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        50% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        69% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        70% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        79% {
+            opacity: 1;
+            visibility: visible;
+        }
+    
+        80% {
+            opacity: 0;
+            visibility: hidden;
+        }
+    
+        to {
+            opacity: 0;
+            visibility: hidden;
+        }
+}
+
+@keyframes slider-explanation-p3 {
+    from {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    9% {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    10% {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    19% {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    20% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    39% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    40% {
+        opacity: 1;
+        visibility: visible;
+    }
+    49% {
+        opacity: 1;
+        visibility: visible;
+    }
+    50% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    69% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    70% {
+        opacity: 1;
+        visibility: visible;
+    }
+    79% {
+        opacity: 1;
+        visibility: visible;
+    }
+    80% {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+@keyframes slider-explanation-p4 {
+    from {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    19% {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    20% {
+        opacity: 1;
+        visibility: visible;
+    }
+    29% {
+        opacity: 1;
+        visibility: visible;
+    }
+    30% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    49% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    50% {
+        opacity: 1;
+        visibility: visible;
+    }
+    59% {
+        opacity: 1;
+        visibility: visible;
+    }
+    60% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    79% {
+        opacity: 0;
+        visibility: hidden;
+    }
+    80% {
+        opacity: 1;
+        visibility: visible;
+    }
+    89% {
+        opacity: 1;
+        visibility: visible;
+    }
+    90% {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+   
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
